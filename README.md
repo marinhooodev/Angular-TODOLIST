@@ -9,3 +9,7 @@ Neste projeto utilizei Angular v16, json-server para hospedar a API da lista e B
 # Conclusão
 
 Uma TODO List é simples, mas me ajudou a aprimorar os conceitos de Services no Angular, entender os métodos HTTP (Get, Post, Put, Delete) e utilizar o Observable da biblioteca RxJS. Também aprendi novos métodos no Bootstrap 5 como modais de vários tipos e ícones da biblioteca Bootstrap Icons.
+
+# Vídeo - Youtube
+
+Link para o vídeo do projeto: https://youtu.be/4weDTRTzd4I
